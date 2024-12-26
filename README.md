@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Machado;I'm+from+Brazil;Electrical+Engineer;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+### Main skills:
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&1abelColor=0D1117)
 
 <!--
 **Thiago-Ax/Thiago-Ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
