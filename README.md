@@ -3,7 +3,7 @@
 ### Main skills:
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
 **Thiago-Ax/Thiago-Ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
